@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## 進行中專案
+
+### 企鵝搶地
+
+![](../split-cover.png)
+
+- Demo: https://split-sheep-spt.zeabur.app/#/
+- 前端 repo: https://github.com/side-project-at-SPT/split-front
+- 後端 repo: https://github.com/side-project-at-SPT/split-rails
+
 <!--
 
 **Here are some ideas to get you started:**
