@@ -4,7 +4,7 @@
 
 ### 企鵝搶地
 
-![](../split-cover.png)
+[![](../split-cover.png)](https://split-sheep-spt.zeabur.app/#/)
 
 - Demo: https://split-sheep-spt.zeabur.app/#/
 - 前端 repo: https://github.com/side-project-at-SPT/split-front
